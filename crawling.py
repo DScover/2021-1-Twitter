@@ -117,7 +117,7 @@ if __name__ == "__main__":
     quit('DONE')
 
     ##act words
-    arrTypeKeyword00 = ["펠라", "질싸", "핸플", "사까시", "역립"]
+    arrTypeKeyword00 = ["###성매매 관련 게시글을 찾는 검색어: 성매매 행위###"]
     for Keyword in arrTypeKeyword00:
         twint_loop(Keyword, '2021-04-07', '2021-05-07', limit=1000)
         f = uniform(0.6, 3.5)
@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     quit('DONE')
     ## typeA
-    arrTypeKeyword00 = ["섹스파트너", "섹파", "애인대행", "애인모드", "조건만남", "출장대행", "출장샵", "출장아가씨", "출장안마", "콜걸 ", "오피걸"]
+    arrTypeKeyword00 = ["###성매매 관련 게시글을 찾는 검색어: 성매매 유형A###"]
     for Keyword in arrTypeKeyword00:
         twint_loop(Keyword, '2021-04-07', '2021-05-07', limit=1000)
         f = uniform(0.6, 3.5)
@@ -134,7 +134,7 @@ if __name__ == "__main__":
         print(f'Sleep {f} second')
 
     ## typeB
-    arrTypeKeyword00 = ["풀싸롱", "셔츠룸", "레깅스룸", "란제리룸", "란제리노래방", "룸야구장"]
+    arrTypeKeyword00 = ["###성매매 관련 게시글을 찾는 검색어: 성매매 유형B###"]
     for Keyword in arrTypeKeyword00:
         twint_loop(Keyword, '2020-04-07', '2021-05-07', limit=1000)
         f = uniform(-1.6, 3.5)
