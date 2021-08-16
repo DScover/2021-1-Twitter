@@ -16,4 +16,4 @@
 * 형태적 분석: EDA
 * 내용적 분석: tf-idf, 코사인 유사도, 네트워크 분석
 ### Result
-[사회2조 기말 발표 자료](https://drive.google.com/file/d/1Dhhi0M9se9nU2E-Dhb-y0RPShvMW5HOU/view?usp=sharing)
+[사회2조 기말 발표 자료](https://drive.google.com/file/d/1_Zx4YoakZ1GNtfGL46T7W6mDkeHtDiPL/view?usp=sharing)
