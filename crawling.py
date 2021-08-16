@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     quit('DONE')
     ## typeA
-    arrTypeKeyword00 = ["성매매 관련 게시글을 찾는 검색어: 성매매 유형A"]
+    arrTypeKeyword00 = ["###성매매 관련 게시글을 찾는 검색어: 성매매 유형A###"]
     for Keyword in arrTypeKeyword00:
         twint_loop(Keyword, '2021-04-07', '2021-05-07', limit=1000)
         f = uniform(0.6, 3.5)
@@ -134,7 +134,7 @@ if __name__ == "__main__":
         print(f'Sleep {f} second')
 
     ## typeB
-    arrTypeKeyword00 = ["성매매 관련 게시글을 찾는 검색어: 성매매 유형B"]
+    arrTypeKeyword00 = ["###성매매 관련 게시글을 찾는 검색어: 성매매 유형B###"]
     for Keyword in arrTypeKeyword00:
         twint_loop(Keyword, '2020-04-07', '2021-05-07', limit=1000)
         f = uniform(-1.6, 3.5)
